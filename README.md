@@ -31,14 +31,14 @@
 
 ### Dates and Deadlines
 
-|             Course Start             | 18 - Jun - 2025 | Deadline | 
+|             Course Start             | 22 - Jun - 2025 | Deadline | 
 |--------------------------------------|:---------------:|:--------:|
 
 #### Lab Schedule 
 
 | Lab Number   |     Date         |         Exercise         | 
 |:------------:|:----------------:|:------------------------:|
-
+| LH1-3        | 25th June 2026   | Building Docker File and Pushing to DockerHub |
 
 ### Text Book
 1. Andrew S. Tannenbaum and Maarten van Steen, **Distributed Systems: Principles and Paradigms**, Third Edition, Prentice Hall, 2017.
