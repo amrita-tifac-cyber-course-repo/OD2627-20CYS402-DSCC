@@ -1,7 +1,7 @@
 # 20CYS402 - Distributed Systems and Cloud Computing
-![](https://img.shields.io/badge/Batch-22CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-DSCC-blue) <br/>
+![](https://img.shields.io/badge/Batch-23CYS-gold) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-DSCC-blue) <br/>
 
-## Docker Exercise and Exam Status
+## Docker Profile
 
 | Roll Number      | Name                           | 	Docker ID 		          |         
 |:----------------:|--------------------------------|:-----------------------------:|
