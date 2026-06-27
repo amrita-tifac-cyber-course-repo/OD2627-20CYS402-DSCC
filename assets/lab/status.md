@@ -1,63 +1,66 @@
+# 20CYS402 - Distributed Systems and Cloud Computing
+![](https://img.shields.io/badge/Batch-23CYS-gold) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-DSCC-blue) <br/>
+
 ## Weekly Lab Status
 
-| Roll Number      | Name                           | 	Docker ID 		          |         
+| Roll Number      | Name                           | 	Lab#1 		          |         
 |:----------------:|--------------------------------|:-----------------------------:|
-| CB.SC.U4CYS23001 | Akash Varunn D                 |
-| CB.SC.U4CYS23002 | Anagha B Prasanth              |
-| CB.SC.U4CYS23003 | Anwita Subbiah Velayutham      | [andocs](https://hub.docker.com/r/andocs) |
-| CB.SC.U4CYS23004 | Arivumathi Se                  | [arivumathi07](https://hub.docker.com/r/arivumathi07) |
-| CB.SC.U4CYS23007 | Akhil Menon                    | [akhilmenon2005](https://hub.docker.com/r/akhilmenon2005) |
-| CB.SC.U4CYS23008 | Bonagiri N V K S Sanjeev Roy   | [sanjeev8](https://hub.docker.com/r/sanjeev8) |
-| CB.SC.U4CYS23009 | Chenna Kushala Sree            | [kushalasree23009](https://hub.docker.com/r/kushalasree23009) |
-| CB.SC.U4CYS23010 | Deepak Sasidharan              | [azrea](https://hub.docker.com/r/azrea) |
-| CB.SC.U4CYS23011 | Devinandha                     | [dawn444](https://hub.docker.com/r/dawn444) |
-| CB.SC.U4CYS23012 | Dinesh V Masuti                | [radkriz](https://hub.docker.com/r/radkriz) |
-| CB.SC.U4CYS23013 | Gautham R                      | [gt57](https://hub.docker.com/r/gt57) |
-| CB.SC.U4CYS23014 | Gouthaman G                    | [goutham2465](https://hub.docker.com/r/goutham2465) |  
-| CB.SC.U4CYS23015 | Haemanth V J                   | [haemanthvj](https://hub.docker.com/r/haemanthvj) |
-| CB.SC.U4CYS23016 | Hema M                         | [blacktulsi](https://hub.docker.com/r/blacktulsi) |
-| CB.SC.U4CYS23017 | Hiba Leeyakath S               | [hibaleeyakath](https://hub.docker.com/r/hibaleeyakath) |
-| CB.SC.U4CYS23018 | Ishitha Praveen                | [ishitha05praveen](https://hub.docker.com/r/ishitha05praveen) |
-| CB.SC.U4CYS23019 | Jai Aditya N                   |
-| CB.SC.U4CYS23020 | Jashwanth B                    | [jashwanthbalamurugan](https://hub.docker.com/r/jashwanthbalamurugan) |
-| CB.SC.U4CYS23021 | K C K Sanjai                   | [avalokita395](https://hub.docker.com/r/avalokita395) |
-| CB.SC.U4CYS23022 | K Ashwin                       | [ashwin1411](https://hub.docker.com/r/ashwin1411) |
-| CB.SC.U4CYS23023 | Karun A T                      | [realgametheory](https://hub.docker.com/r/realgametheory) |
-| CB.SC.U4CYS23024 | Koduru Kavya Sri               | [kavss](https://hub.docker.com/r/kavss) |
-| CB.SC.U4CYS23025 | Martin Rozariyo I              | [rozariyo](https://hub.docker.com/r/rozariyo) |  
-| CB.SC.U4CYS23026 | Mithunn Shunmuga Sundaram      |
-| CB.SC.U4CYS23027 | Madhumita Shenbagarajesh       | [madhuxd](https://hub.docker.com/r/madhuxd) |
-| CB.SC.U4CYS23028 | Mohamed Sahil Khan A H         | [shuraig](https://hub.docker.com/r/shuraig) |
-| CB.SC.U4CYS23029 | Nukala Akshay                  |
-| CB.SC.U4CYS23030 | Nandida Valsaraj               | [nandida](https://hub.docker.com/r/nandida) |
-| CB.SC.U4CYS23031 | Niranjan Manoj Chettur         | [niranjan198](https://hub.docker.com/r/niranjan198) |
-| CB.SC.U4CYS23032 | Padigala Sai Varsha            | [varshapadigala](https://hub.docker.com/r/varshapadigala) |
-| CB.SC.U4CYS23033 | Poli Sreedhar Sai              | [sreedharpoli](https://hub.docker.com/r/sreedharpoli) |
-| CB.SC.U4CYS23034 | Ponvedica M S                  | [ponvedica](https://hub.docker.com/r/ponvedica) |
-| CB.SC.U4CYS23036 | Praneesh R V                   | [shadoweternity](https://hub.docker.com/r/shadoweternity) |
-| CB.SC.U4CYS23037 | Pranesh S                      | [pranesh2804](https://hub.docker.com/r/pranesh2804) |
-| CB.SC.U4CYS23038 | R Giridhar                     | [g1r1dhar](https://hub.docker.com/r/g1r1dhar) |
-| CB.SC.U4CYS23039 | Rohit Sundar V                 | [rohitsundar](https://hub.docker.com/r/rohitsundar) |
-| CB.SC.U4CYS23041 | S Santhosh Tharun              | [SanthoshTharun7](https://hub.docker.com/r/SanthoshTharun7) |
-| CB.SC.U4CYS23042 | Sanjay AV                      | [sanjayvenkatesan](https://hub.docker.com/r/sanjayvenkatesan) |
-| CB.SC.U4CYS23043 | Shobhana S                     | [shobhana129](https://hub.docker.com/r/shobhana129) | 
-| CB.SC.U4CYS23044 | Shyamraj H                     | [shyamraj21](https://hub.docker.com/r/shyamraj21) |  
-| CB.SC.U4CYS23045 | Soffia K N                     | [soffia275](https://hub.docker.com/r/soffia275) |
-| CB.SC.U4CYS23046 | Sooraj Suresh Nair             | [sooraj1018](https://hub.docker.com/r/sooraj1018) |
-| CB.SC.U4CYS23047 | Srinidhi S                     | [sriniidhiii](https://hub.docker.com/r/sriniidhiii) |
-| CB.SC.U4CYS23048 | Sayanthan SM                   | [sayoo67](https://hub.docker.com/r/sayoo67) |
-| CB.SC.U4CYS23049 | Talasila Revanth               | [Blizzard7375](https://hub.docker.com/r/Blizzard7375) |
-| CB.SC.U4CYS23050 | Ummadi Mythri Reddy            |
-| CB.SC.U4CYS23051 | Valavala Nikhith Gandhi        | [nikhithgandhi](https://hub.docker.com/r/nikhithgandhi) |
-| CB.SC.U4CYS23052 | Vedhavarshini Vijayakumar      |
-| CB.SC.U4CYS23053 | Diyyala Govardhan              |
-| CB.SC.U4CYS23054 | K V Prasanna Kumar             | [kvprasannakumar](https://hub.docker.com/r/kvprasannakumar) |
-| CB.SC.U4CYS23055 | Madhumitha Sivakumar           | [Madhu465](https://hub.docker.com/r/Madhu465) |
-| CB.SC.U4CYS23056 | Sairaghunandhan Manikandan     | [sairaghunandhan](https://hub.docker.com/r/sairaghunandhan) |
-| CB.SC.U4CYS23057 | Rishab Nair                    | [rishab2104](https://hub.docker.com/r/rishab2104) |
-| CB.SC.U4CYS23058 | Kankatala Surya Rama Sravan Rishi | [Rishi0406](https://hub.docker.com/r/Rishi0406) | 
-| CB.SC.U4CYS23059 | I Prabhakar                    | [iprabhakar](https://hub.docker.com/r/iprabhakar) |
-| CB.SC.U4CYS23060 | Raahul Sivakumar               | [raahulsivakumar](https://hub.docker.com/r/raahulsivakumar) |
-| CB.SC.U4CYS23061 | Challapalli Sathwik            |
-| CB.SC.U4CYS23062 | Appaka Vibhika Krishna Raghavani | [vibhika1105](https://hub.docker.com/r/vibhika1105) | 
-| CB.SC.U4CYS23063 | Narne Tagore Nandan Chowdary |
+| CB.SC.U4CYS23001 | Akash Varunn D                 | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23002 | Anagha B Prasanth              | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23003 | Anwita Subbiah Velayutham      | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/andocs/firstdockerimage) | 
+| CB.SC.U4CYS23004 | Arivumathi Se                  | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/arivumathi07/firstdockerimage) | 
+| CB.SC.U4CYS23007 | Akhil Menon                    | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/akhilmenon2005/firstdockerimage) | 
+| CB.SC.U4CYS23008 | Bonagiri N V K S Sanjeev Roy   | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23009 | Chenna Kushala Sree            |  [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/kushalasree23009/firstdockerimage) | 
+| CB.SC.U4CYS23010 | Deepak Sasidharan              |  [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23011 | Devinandha                     | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/dawn444/firstdockerimage) | 
+| CB.SC.U4CYS23012 | Dinesh V Masuti                | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23013 | Gautham R                      | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23014 | Gouthaman G                    | [![](https://img.shields.io/badge/--darkgreen)]() | 
+| CB.SC.U4CYS23015 | Haemanth V J                   | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23016 | Hema M                         | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/blacktulsi/firstdockerimage) | 
+| CB.SC.U4CYS23017 | Hiba Leeyakath S               | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23018 | Ishitha Praveen                | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/ishitha05praveen/firstdockerimage) | 
+| CB.SC.U4CYS23019 | Jai Aditya N                   | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/jaiaditya29/firstdockerimage) | 
+| CB.SC.U4CYS23020 | Jashwanth B                    | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/jashwanthbalamurugan/firstdockerimage) |
+| CB.SC.U4CYS23021 | K C K Sanjai                   | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23022 | K Ashwin                       | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/ashwin1411/firstdockerimage) |
+| CB.SC.U4CYS23023 | Karun A T                      | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/realgametheory/firstdockerimage) |
+| CB.SC.U4CYS23024 | Koduru Kavya Sri               | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/kavss/firstdockerimage) |
+| CB.SC.U4CYS23025 | Martin Rozariyo I              | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/rozariyo/firstdockerimage) |  
+| CB.SC.U4CYS23026 | Mithunn Shunmuga Sundaram      | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23027 | Madhumita Shenbagarajesh       | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23028 | Mohamed Sahil Khan A H         | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/shuraig/firstdockerimage) |  
+| CB.SC.U4CYS23029 | Nukala Akshay                  | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/akshayn789/firstdockerimage) | 
+| CB.SC.U4CYS23030 | Nandida Valsaraj               | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/nandida/firstdockerimage) | 
+| CB.SC.U4CYS23031 | Niranjan Manoj Chettur         | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/niranjan198/firstdockerimage) | 
+| CB.SC.U4CYS23032 | Padigala Sai Varsha            | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/varshapadigala/firstdockerimage) | 
+| CB.SC.U4CYS23033 | Poli Sreedhar Sai              | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/sreedharpoli/firstdockerimage) | 
+| CB.SC.U4CYS23034 | Ponvedica M S                  | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/ponvedica/firstdockerimage) | 
+| CB.SC.U4CYS23036 | Praneesh R V                   | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/shadoweternity/firstdockerimage) | 
+| CB.SC.U4CYS23037 | Pranesh S                      | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23038 | R Giridhar                     | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/g1r1dhar/firstdockerimage) | 
+| CB.SC.U4CYS23039 | Rohit Sundar V                 | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/rohitsundar/firstdockerimage) | 
+| CB.SC.U4CYS23041 | S Santhosh Tharun              | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/santhoshtharun7/firstdockerimage) |
+| CB.SC.U4CYS23042 | Sanjay AV                      | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23043 | Shobhana S                     | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/shobhana129/firstdockerimage) |
+| CB.SC.U4CYS23044 | Shyamraj H                     | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/shyamraj21/firstdockerimage) |  
+| CB.SC.U4CYS23045 | Soffia K N                     | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/soffia275/firstdockerimage) |
+| CB.SC.U4CYS23046 | Sooraj Suresh Nair             | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/sooraj1018/firstdockerimage) |
+| CB.SC.U4CYS23047 | Srinidhi S                     | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/sriniidhiii/firstdockerimage) |
+| CB.SC.U4CYS23048 | Sayanthan SM                   | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/sayoo67/firstdockerimage) |
+| CB.SC.U4CYS23049 | Talasila Revanth               | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/blizzard7375/firstdockerimage) |
+| CB.SC.U4CYS23050 | Ummadi Mythri Reddy            | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23051 | Valavala Nikhith Gandhi        | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/nikhithgandhi/firstdockerimage) |
+| CB.SC.U4CYS23052 | Vedhavarshini Vijayakumar      | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23053 | Diyyala Govardhan              | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/govardhan53/firstdockerimage) |
+| CB.SC.U4CYS23054 | K V Prasanna Kumar             | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23055 | Madhumitha Sivakumar           | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/madhu465/firstdockerimage) |
+| CB.SC.U4CYS23056 | Sairaghunandhan Manikandan     | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/sairaghunandhan/firstdockerimage) |
+| CB.SC.U4CYS23057 | Rishab Nair                    | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23058 | Kankatala Surya Rama Sravan Rishi | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/rishi0406/firstdockerimage) | 
+| CB.SC.U4CYS23059 | I Prabhakar                    | [![](https://img.shields.io/badge/--darkgreen)]() |
+| CB.SC.U4CYS23060 | Raahul Sivakumar               | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/raahulsivakumar/firstdockerimage) | 
+| CB.SC.U4CYS23061 | Challapalli Sathwik            | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/phantomone/firstdockerimage) | 
+| CB.SC.U4CYS23062 | Appaka Vibhika Krishna Raghavani | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/vibhika1105/firstdockerimage) | 
+| CB.SC.U4CYS23063 | Narne Tagore Nandan Chowdary | [![](https://img.shields.io/badge/-Completed-darkgreen)](https://hub.docker.com/r/tagorenarne123/firstdockerimage) |
