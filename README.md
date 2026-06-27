@@ -3,7 +3,7 @@
 </p>
 
 # 20CYS402 - Distributed Systems and Cloud Computing ![](https://img.shields.io/badge/-Completed-darkgreen)
-![](https://img.shields.io/badge/Batch-23CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-DSCC-blue) <br/>
+![](https://img.shields.io/badge/Batch-23CYS-gold) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-DSCC-blue) <br/>
 ![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-59-gold) <br/> 
 
 #### Pre-requisite: 20CYS203 - Operating System and 20CYS204 - Database Management System
@@ -20,13 +20,21 @@
 
 ### :watch: Course Plan and Status
 
-| **Lecture No.** |  **Topic**                                  | **Remarks**                                      |   **Reference Video(s)** |
-|:---------------:|---------------------------------------------|--------------------------------------------------|:-------------------------:|
+| **Lecture No.** |  **Topic**                        | **Remarks**                             |   **Reference Video(s)** |
+|:---------------:|-----------------------------------|-----------------------------------------|:------------------------:|
 
 ### Evaluation Criteria
 
 | Component | Marks |
-|:---------|:-----:|
+|:----------|:-----:|
+| CA#1A: Quiz #1 | 4 |
+| LE#1 | 7 |
+| CA#1B: Quiz #2 | 4 |
+| Mid-Term  |  30 (20 + 10) |
+| CA#2A: Quiz #3 | 3 |
+| LE#2 | 7 |
+| CA#2B: Palo Alto Course | 5 |
+| End Semester | 40 (25 + 15) |
 
 
 ### Dates and Deadlines
@@ -34,11 +42,13 @@
 |             Course Start             | 22 - Jun - 2025 | Deadline | 
 |--------------------------------------|:---------------:|:--------:|
 
+
 #### Lab Schedule 
 
 | Lab Number   |     Date         |         Exercise         | 
 |:------------:|:----------------:|:------------------------:|
 | LH1-3        | 25th June 2026   | Building Docker File and Pushing to DockerHub |
+| LH4-6        | 02nd July 2026   | Docker Exercise |
 
 ### Text Book
 1. Andrew S. Tannenbaum and Maarten van Steen, **Distributed Systems: Principles and Paradigms**, Third Edition, Prentice Hall, 2017.
