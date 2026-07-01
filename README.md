@@ -31,9 +31,9 @@
 | LE#1 | 7 |
 | CA#1B: Quiz #2 | 4 |
 | Mid-Term  |  30 (20 + 10) |
-| CA#2A: Quiz #3 | 3 |
+| CA#2A: Quiz #3 | 4 |
 | LE#2 | 7 |
-| CA#2B: Palo Alto Course | 5 |
+| CA#2B: Quiz #4 | 4 |
 | End Semester | 40 (25 + 15) |
 
 
