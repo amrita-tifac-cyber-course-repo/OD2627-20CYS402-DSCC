@@ -161,7 +161,7 @@ Your Docker image shall:
 ```
 filesharingdocker/
 
-│── Dockerfile        (Students create this)
+│── Dockerfile   
 │── server.py
 │── requirements.txt
 │── config.json
@@ -181,4 +181,22 @@ Please follow the below instructions
 - Push the image to your DockerHub
 
 ### Evaluation (40 Minutes)
+
+#### Evaluator 
+| **Roll Number ** | **Faculty Evaluator** |
+|:---------------------:|-------------|
+| 03 – 23  | Dr. Jevitha K P |
+| 26 – 43 | Dr. Praveen K |
+| 44 – 63 | Mr. Ramaguru Radhakrishnan |
+
+#### Rubrics
+| **Evaluation Criteria** | **Marks** |
+|--------------------------|:---------:|
+| First Exercise Submitted on Time | 10 |
+| First Exercise Completed Successfully | 10 |
+| Flask Application Working Correctly | 10 |
+| Configuration (Environment Variables, Dockerfile, etc.) | 5 |
+| Correct DockerHub Repository/Image Name | 5 |
+| Viva / Demonstration | 10 |
+| **Total** | **50** |
 
