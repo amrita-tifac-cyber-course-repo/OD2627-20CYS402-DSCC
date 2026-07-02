@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/Batch-23CYS-gold) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-DSCC-blue) <br/>
 
 ## Lab#2 - Building Custom Docker Image 
+![](https://img.shields.io/badge/Date-02_July-blue)
 
 ### Aim
 To create a custom Docker image by using a Dockerfile that installs packages, configures environment variables, sets a working directory, copies files, exposes a network port, and executes an application.
@@ -178,3 +179,6 @@ Please follow the below instructions
 - Build the image 
 - Run the image with port name mapped to 80XX (XX shall be your roll number)
 - Push the image to your DockerHub
+
+### Evaluation (40 Minutes)
+
