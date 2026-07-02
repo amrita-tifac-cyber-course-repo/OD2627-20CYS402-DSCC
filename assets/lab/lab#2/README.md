@@ -175,9 +175,9 @@ filesharingdocker/
 #### Build & Run the Image. Push the Image
 
 Please follow the below instructions
-- The image name shall be filesharingdockerimage
+- The image name shall be `filesharingdockerimage`
 - Build the image 
-- Run the image with port name mapped to 80XX (XX shall be your roll number)
+- Run the image with port name mapped to `80XX` (XX shall be your roll number)
 - Push the image to your DockerHub
 
 ### Evaluation (40 Minutes)
