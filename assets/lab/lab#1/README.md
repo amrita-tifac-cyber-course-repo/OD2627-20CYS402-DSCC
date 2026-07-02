@@ -55,6 +55,15 @@ docker image ls --filter "dangling=true"
 1. Login to Dockerhub
 2. Create a docker repository named ```firstdockerimage``` 
 3. In your terminal:
-   - Login into your docker with the command: ```docker login```
-   - Retag your image from ```demoimage``` to ```<<dockerusername>>/firstdockerimage``` with the command: ```docker tag demoimage <<dockerusername>>/firstdockerimage```
-   - push the newly tagged image to the DockerHub with the command: ```docker image push <<dockerusername>>/firstdockerimage```
+   - Login into your docker with the command:
+     ```
+     docker login
+     ```
+   - Retag your image from ```demoimage``` to ```<<dockerusername>>/firstdockerimage``` with the command:
+     ```
+     docker tag demoimage <<dockerusername>>/firstdockerimage
+     ```
+   - push the newly tagged image to the DockerHub with the command:
+     ```
+     docker image push <<dockerusername>>/firstdockerimage
+     ```
