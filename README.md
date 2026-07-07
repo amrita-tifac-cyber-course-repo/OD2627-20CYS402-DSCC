@@ -39,16 +39,18 @@
 
 ### Dates and Deadlines
 
-|             Course Start             | 22 - Jun - 2025 | Deadline | 
-|--------------------------------------|:---------------:|:--------:|
-
+|             Course Start             |  22 - Jun - 2026    |      Status     | 
+|--------------------------------------|:-------------------:|:---------------:|
+| CA#1A: Quiz #1                       |  14 - Jul - 2026    |                 |
+| CA#1B: Quiz #2                       |  04 - Aug - 2026    |
 
 #### Lab Schedule 
 
 | Lab Number   |     Date         |         Exercise         | 
 |:------------:|:----------------:|:------------------------:|
 | LH1-3        | 25th June 2026   | Building Docker File and Pushing to DockerHub |
-| LH4-6        | 02nd July 2026   | Docker Exercise |
+| LH4-6        | 02nd July 2026   | Docker Exercise - Flask and File Sharing App |
+| LH7-9        | 09th July 2026   | Docker Exercise - Compose with Volume |
 
 ### Text Book
 1. Andrew S. Tannenbaum and Maarten van Steen, **Distributed Systems: Principles and Paradigms**, Third Edition, Prentice Hall, 2017.
