@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/amrita-tifac-cys-btech/.github-private/refs/heads/main/profile/assets/AVV_CYS_Logo.png?token=GHSAT0AAAAAAD73TDVP7B6LMCBRNVYF2XAY2SPGWGA" alt ="Amrita TIFAC" width="700" />
+    <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/.github/blob/main/profile/img/AVV_CYS_Logo.png" alt ="Amrita TIFAC" width="700" />
 </p>
 
 # 20CYS402 - Distributed Systems and Cloud Computing ![](https://img.shields.io/badge/-Completed-darkgreen)
@@ -42,7 +42,8 @@
 |             Course Start             |  22 - Jun - 2026    |      Status     | 
 |--------------------------------------|:-------------------:|:---------------:|
 | CA#1A: Quiz #1                       |  14 - Jul - 2026    |                 |
-| CA#1B: Quiz #2                       |  04 - Aug - 2026    |
+| Lab Evaluation#1                     |  16 - Jul - 2026    |                 |
+| CA#1B: Quiz #2                       |  04 - Aug - 2026    |                 |
 
 #### Lab Schedule 
 
@@ -51,6 +52,7 @@
 | LH1-3        | 25th June 2026   | Building Docker File and Pushing to DockerHub |
 | LH4-6        | 02nd July 2026   | Docker Exercise - Flask and File Sharing App |
 | LH7-9        | 09th July 2026   | Docker Exercise - Compose with Volume |
+| LH10-12      | 06th July 2026   | Docker Lab Verification and Viva |
 
 ### Text Book
 1. Andrew S. Tannenbaum and Maarten van Steen, **Distributed Systems: Principles and Paradigms**, Third Edition, Prentice Hall, 2017.
