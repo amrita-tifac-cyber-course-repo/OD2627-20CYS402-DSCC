@@ -82,13 +82,13 @@ volumes:
 ### Evaluation (40 Minutes)
 
 #### Evaluator 
-| **Roll Number ** | **Faculty Evaluator** |
+| Roll Number | Faculty Evaluator |
 |:---------------------:|-------------|
 | 03 – 23  | Dr. Jevitha K P |
 | 26 – 43 | Dr. Praveen K |
 | 44 – 63 | Mr. Ramaguru Radhakrishnan |
 
 #### Rubrics
-| **Evaluation Criteria** | **Marks** |
+| Evaluation Criteria | Marks |
 |--------------------------|:---------:|
 
